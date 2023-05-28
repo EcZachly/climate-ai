@@ -40,7 +40,7 @@ CREATE TABLE "Actor" (
 
 """
 
-emissions_agg = """
+emissions_agg_schema = """
 CREATE TABLE "EmissionsAgg" (
   "emissions_id" varchar(255), /* Unique identifier for this record */
   "actor_id" varchar(255), /* Responsible party for the emissions */
@@ -60,6 +60,57 @@ CREATE TABLE "EmissionsAgg" (
   CONSTRAINT "FK_EmissionsAgg.datasource_id"
     FOREIGN KEY ("datasource_id")
       REFERENCES "DataSource"("datasource_id")
+);
+
+"""
+
+target_schema = """
+CREATE TABLE "Target" (
+  "target_id" varchar(255), /* Unique identifier for this target */
+  "actor_id" varchar(255), /* Actor responsible for the target */
+  "target_type" varchar(255),
+  "baseline_year" int, /* Year of comparison, YYYY */
+  "target_year" int, /* Year of completion, YYYY */
+  "baseline_value" bigint, /* Value of comparison */
+  "target_value" bigint, /* Value of target */
+  "target_unit" varchar(255), /* Unit comparison; tonnes of CO2, percent, ? */
+  "bau_value" int, /* ? */
+  "is_net_zero" boolean, /* Will this get them to net zero? */
+  "percent_achieved" int, /* ? */
+  "URL" varchar(255), /* URL of a human-readable document on the target. */
+  "summary" varchar(255), /* short summary in English of the target. */
+  "datasource_id" varchar(255), /* Source of this data */
+  "created" timestamp,
+  "last_updated" timestamp,
+  PRIMARY KEY ("target_id"),
+  CONSTRAINT "FK_Target.actor_id"
+    FOREIGN KEY ("actor_id")
+      REFERENCES "Actor"("actor_id"),
+  CONSTRAINT "FK_Target.datasource_id"
+    FOREIGN KEY ("datasource_id")
+      REFERENCES "DataSource"("datasource_id")
+);
+
+"""
+
+actions_schema = """
+
+CREATE TABLE "Action" (
+  "action_id" varchar(255),
+  "actor_id" varchar(255),
+  "action_type" varchar(255),
+  "sector" varchar(255),
+  "year" int,
+  "description" varchar(255),
+  "emissions_reductions" int,
+  "percent_achieved" int,
+  "datasource_id" varchar(255),
+  "created" timestamp,
+  "last_updated" timestamp,
+  PRIMARY KEY ("action_id"),
+  CONSTRAINT "FK_Action.actor_id"
+    FOREIGN KEY ("actor_id")
+      REFERENCES "Actor"("actor_id"),
 );
 
 """

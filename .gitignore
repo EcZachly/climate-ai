@@ -1,1 +1,6 @@
 .idea
+output
+*.csv
+.DS_Store
+*.xlsx
+__pycache__
