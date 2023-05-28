@@ -1,0 +1,44 @@
+TABLE 3.D  SECTORAL BACKGROUND DATA FOR AGRICULTURE ,,,,Inventory 1990
+Direct and indirect N2O emissions from agricultural soils,,,,Submission 2023 v6
+(Sheet 1 of 1),,,,CYPRUS
+,,,,
+GREENHOUSE GAS SOURCE AND SINK CATEGORIES,ACTIVITY  DATA   AND  OTHER  RELATED  INFORMATION,,IMPLIED EMISSION FACTORS,EMISSIONS
+,Description,Value,,N2O
+,,kg N/yr,kg N2O-N/kg N(1)(2),(kt)
+a. Direct N2O emissions from managed soils ,,,,0.15
+1.   Inorganic N fertilizers(3),N input from application of inorganic fertilizers to cropland and grassland,12426150.00,0.00,0.06
+2.   Organic N fertilizers(3),N input from organic N fertilizers to cropland and grassland,13776100.80,0.00,0.06
+      a. Animal manure applied to soils,N input from manure applied to soils,13760579.11,0.00,0.06
+      b. Sewage sludge applied to soils,N input from sewage sludge applied to soils,15521.69,0.00,0.00
+      c. Other organic fertilizers applied to soils,N input from application of other organic fertilizers,NO,NO,NO
+3.   Urine and dung deposited by grazing animals,"N excretion on pasture, range and paddock",NO,NO,NO
+4.   Crop residues,N in crop residues returned to soils,1805845.92,0.01,0.03
+5.  Mineralization/immobilization associated with loss/gain of soil organic matter (4)(5),N in mineral soils that is mineralized in association with loss of soil C,57.46,0.01,0.00
+6.   Cultivation of organic soils (i.e. histosols)(2),Area of cultivated organic soils,NO,NO,NO
+7.   Other,,NO,NO,NO
+b. Indirect N2O Emissions from managed soils ,,,,0.06
+1.   Atmospheric deposition(6),Volatilized N from agricultural inputs of N,3997835.16,0.01,0.06
+2.   Nitrogen leaching and run-off,N from fertilizers and other agricultural inputs that is lost through leaching and run-off,57.46,0.00,0.00
+,,,,
+"(1)   To convert from N2O-N to N2O emissions, multiply by 44/28. ",,,,
+"(2)   For cultivation of histosols the unit of the IEF is kg N2O–N/ha. The emissions from cultivation/management of croplands and grasslands are to be included. For a definition of organic soils, see footnote 4, page 11.6 of chapter 11 of volume 4 of the 2006 IPCC Guidelines.",,,,
+"(3)    Include the application of fertilizers on cropland and grassland. If the application of fertilizers to other land categories cannot be separately identified, this application should be included here.",,,,
+(4)   Emissions from management changes in cropland remaining cropland would be reported in this table. ,,,,
+"(5)  Methodologies for N2O emissions from N mineralization/immobilization associated with loss/gain of soil organic matter resulting management of mineral soils are based on equations 11.1, 11.2 and 11.8 of the 2006 IPCC Guidelines. N2O immobilization associated with gain of organic matter resulting from management of mineral soils can be reported only when a Party applies a tier 3 approach in the relevant calculation.",,,,
+"(6)   Only atmospheric deposition of nitrogen (N) volatilised from agricultural inputs of N are to be reported here, not including NOx associated with the burning of savannahs and crop residues.",,,,
+,,,,
+Additional information,,,,
+Fraction (a),Description,Value,,
+FracGASF,Fraction of synthetic fertilizer N applied to soils that volatilises as NH3 and NOX,0.10,,
+FracGASM,Fraction of livestock N excretion that volatilises as NH3 and NOX,0.20,,
+FracLEACH-(H),Fraction of N input to managed soils that is lost through leaching and run-off,0.00,,
+Other fractions (please specify),,,,
+(a) Use the definitions for fractions as specified in the 2006 IPCC Guidelines (pp. 11.13-11.22 of chapter 11 of volume 4) ,,,,
+,,,,
+Documentation box:,,,,
+• Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the NIR. Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,
+"• Provide a reference to the relevant section in the NIR, in particular with regard to: ",,,,
+"    (a) Background information on methane (CH4) emissions from agricultural soils, if accounted for under the agriculture sector;",,,,
+    (b) Full list of assumptions and fractions used.,,,,
+Documentation box,"3.D.1.6: Cyprus does not have agriculture soils with high organic matter.
+3.D.AI.2: emissions from animal waste/sludge applied to soil not estimated due to unavailability of data",,,

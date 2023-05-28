@@ -1,0 +1,25 @@
+Table 4.1  LAND TRANSITION MATRIX,,,,,,,,,,,Inventory 1990
+Areas and changes in areas between the previous and the current inventory year(1),,,,,,,,,,,Submission 2023 v6
+,,,,,,,,,,,CYPRUS
+,,,,,,,,,,,
+TO:,Forest land (managed),Forest land (unmanaged),Cropland ,Grassland (managed),Grassland (unmanaged),Wetlands (managed),Wetlands (unmanaged),Settlements,Other land,"Total 
+unmanaged 
+land",Initial area
+FROM:,(kha),,,,,,,,,,
+Forest land (managed)(2),158.12,NO,NO,0.00,NO,NO,NO,NO,NO,NO,158.12
+Forest land (unmanaged)(2),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Cropland(2) ,0.00,NO,256.25,0.17,NO,NO,NO,0.02,0.00,NO,256.44
+Grassland (managed)(2),0.01,NO,0.03,131.45,NO,NO,NO,0.01,0.00,NO,131.50
+Grassland (unmanaged)(2),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Wetlands (managed)(2),NO,NO,NO,NO,NO,3.98,NO,NO,NO,NO,3.98
+Wetlands (unmanaged)(2),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Settlements(2),NO,NO,NO,NO,NO,NO,NO,48.87,NO,NO,48.87
+Other land(2),NO,NO,NO,NO,NO,NO,NO,NO,2.91,NO,2.91
+Total unmanaged land (3),NO,NO,NO,NO,NO,NO,NO,NO,NO,322.35,322.35
+Final area,158.13,NO,256.27,131.62,NO,3.98,NO,48.90,2.92,322.35,924.17
+Net change(4),0.01,NO,-0.17,0.13,NO,0.00,NO,0.03,0.00,0.00,0.00
+,,,,,,,,,,,
+"(1)  For Parties using reporting approach 1 to represent land areas, only data on the initial and final area per land use should be filled in. Notation key ""NA""  (not applicable) should be used in such cases for the specific land use transitions, allowing for the formulas in the cells for final and initial areas to be overwritten. Coastal wetlands areas which are not part of total land area should not be included in this land matrix.",,,,,,,,,,,
+"(2)  Definitions for the respective land use categories used by the Party should be provided in the NIR, in accordance with the definitions of land use categories in Volume 4, chapter 3, section 3.2 of the 2006 IPCC Guidelines.",,,,,,,,,,,
+(3) Parties may report only the total area of unmanaged land area and enter the notation key IE under the individual unmanaged land uses categories.,,,,,,,,,,,
+(4) Net change is the final area minus the initial area for each of the conversion categories shown at the head of the corresponding row. In the final area row the net change equals zero.,,,,,,,,,,,

@@ -1,0 +1,58 @@
+TABLE 3.F SECTORAL BACKGROUND DATA FOR AGRICULTURE ,,,,,,,,Inventory 1990
+Field burning of agricultural residues(1),,,,,,,,Submission 2023 v3
+(Sheet 1 of 1),,,,,,,,NEW ZEALAND
+,,,,,,,,
+GREENHOUSE GAS SOURCE ,     ACTIVITY DATA AND OTHER RELATED INFORMATION,,,,IMPLIED EMISSION FACTORS,,EMISSIONS,
+AND SINK CATEGORIES,Area burned,Biomass available(1),Combustion factor,Total biomass burned(2)  ,CH4        ,N2O  ,CH4        ,N2O  
+,(k ha/yr), (t dm/ha),, (kt dm),(kg/t dm),,(kt),
+1. Cereals,,,,323.09,2.80,0.05,0.90,0.02
+Wheat,NA,NA,NA,114.03,2.91,0.05,0.33,0.01
+Barley,NA,NA,NA,153.66,2.74,0.05,0.42,0.01
+Maize,NO,NA,NA,NO,NO,NO,NO,NO
+Other (please specify),,,,55.40,2.74,0.05,0.15,0.00
+Oats,NA,NA,NA,55.40,2.74,0.05,0.15,0.00
+2. Pulses,,,,NA,NO,NO,NO,NO
+Other (please specify),,,,NA,NO,NO,NO,NO
+Legume seeds,NO,NA,NA,NA,NO,NO,NO,NO
+Lentils,NO,NA,NA,NA,NO,NO,NO,NO
+Peas,NO,NA,NA,NA,NO,NO,NO,NO
+3. Tubers and roots,,,,NA,NO,NO,NO,NO
+Other (please specify),,,,NA,NO,NO,NO,NO
+Potatoes,NO,NA,NA,NA,NO,NO,NO,NO
+4. Sugar cane,NO,NA,NA,NA,NO,NO,NO,NO
+5. Other (please specify),,,,NA,NO,NO,NO,NO
+Brassica seeds,NO,NA,NA,NA,NO,NO,NO,NO
+Herbage seeds,NO,NA,NA,NA,NO,NO,NO,NO
+Onions,NO,NA,NA,NA,NO,NO,NO,NO
+Squash,NO,NA,NA,NA,NO,NO,NO,NO
+Sweet corn,NO,NA,NA,NA,NO,NO,NO,NO
+.,,,,,,,,
+(1) Mass of fuel available for combustion.,,,,,,,,
+"(2) If Parties use a different methodology than the IPCC default, e.g. based on crop production, the estimate for total biomass burned can be reported without data on area, fuel available and combustion factor. In this case the additional information table should be used to report the parameters used to derive the total biomass burned.",,,,,,,,
+,,,,,,,,
+Additional information,,,,,,,,
+,Wheat,Barley,Maize,Other  (please specify),Oats,,,
+Crop  production (t),188047.00,434856.00,161651.00,,78877.00,,,
+Residue/ Crop ratio,NA,NA,NA,,NA,,,
+Dry matter (dm) fraction of residue,0.86,0.86,NA,,0.86,,,
+Fraction burned in fields,0.70,0.70,NA,,0.70,,,
+Fraction oxidized,0.90,0.90,NA,,0.90,,,
+Note: Parties are encouraged to supply the additional information regardless of the methodology applied.,,,,,,,,
+,,,,,,,,
+Documentation box:,,,,,,,,
+Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the national invnetory report (NIR). Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,,,,,
+Documentation box,"3.F/1990: Residues from brassica seeds are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Residues from herbage seeds are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Specific data on the area of oats burned (and biomass available) is not gathered by New Zealand, and is not used to calculate field burning emissions. To calculate emissions, production volumes and an estimate of the proportion of oats area burned is used, along with country-specific parameters. For more information see section 5.7.2 of the NIR.  
+3.F/1990: Residues from legumes are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Specific data on the area of barley burned (and biomass available) is not gathered by New Zealand, and is not used to calculate field burning emissions. To calculate emissions, production volumes and an estimate of the proportion of barley area burned is used, along with country-specific parameters. For more information see section 5.7.2 of the NIR.  
+3.F/1990: Residues from maize are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Sugar cane is not grown in NZ 
+3.F/1990: Residues from peas are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Residues from onion crops are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Residues from lentils are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Residues from squash are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Residues from sweetcorn are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Residues from potatoes are not burned in New Zealand. For more information see section 5.7.1 of the NIR 
+3.F/1990: Specific data on the area of wheat burned (and biomass available) is not gathered by New Zealand, and is not used to calculate field burning emissions. To calculate emissions, production volumes and an estimate of the proportion of wheat area burned is used, along with country-specific parameters. For more information see section 5.7.2 of the NIR.  
+",,,,,,,

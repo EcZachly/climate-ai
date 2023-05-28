@@ -1,0 +1,75 @@
+TABLE 9  COMPLETENESS  - INFORMATION ON NOTATION KEYS,,,,Inventory 1990,
+(Sheet 1 of 1),,,,Submission 2023 v6,
+,,,,CYPRUS,
+,,,,,
+"Sources and sinks not estimated (""NE"")(1)",,,,,
+GHG,Sector(2),Source/sink category(2),Explanation,,
+CH4,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.a  Oil/1.B.2.a.3  Transport,Refinery shut down in 2004. No historical activity data available to estimate emissions.,,
+CH4,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.c  Venting and Flaring/1.B.2.c.2  Flaring/1.B.2.c.2.i  Oil,"Flaring (1.B.2.c.2.i) was taking place at the refinery, which ceased its operation in 2004. No historical activity data available to estimate emissions.",,
+CH4,Industrial Processes and Product Use,2.D  Non-energy Products from Fuels and Solvent Use/2.D.1  Lubricant Use,EF not found in guidebook,,
+CO2,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.a  Oil/1.B.2.a.3  Transport,Refinery shut down in 2004. No historical activity data available to estimate emissions.,,
+CO2,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.a  Oil/1.B.2.a.4  Refining / Storage,Refinery shut down in 2004. No historical activity data available to estimate emissions.,,
+CO2,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.c  Venting and Flaring/1.B.2.c.2  Flaring/1.B.2.c.2.i  Oil,"Flaring (1.B.2.c.2.i) was taking place at the refinery, which ceased its operation in 2004. No historical activity data available to estimate emissions.",,
+CO2,Waste,5.F  Memo Items/5.F.1  Long-term Storage of C in Waste Disposal Sites,No data available to estimate the emissions.,,
+CO2,Waste,5.F  Memo Items/5.F.2  Annual Change in Total Long-term C Storage,No data available to estimate the emissions.,,
+CO2,Waste,5.F  Memo Items/5.F.3  Annual Change in Total Long-term C Storage in HWP Waste,No data available to estimate the emissions.,,
+N2O,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.a  Oil/1.B.2.a.4  Refining / Storage,Refinery shut down in 2004. No historical activity data available to estimate emissions.,,
+N2O,Energy,1.B  Fugitive Emissions from Fuels/1.B.2  Oil and Natural Gas and Other Emissions from Energy Production/1.B.2.c  Venting and Flaring/1.B.2.c.2  Flaring/1.B.2.c.2.i  Oil,"Flaring (1.B.2.c.2.i) was taking place at the refinery, which ceased its operation in 2004. No historical activity data available to estimate emissions.",,
+N2O,Industrial Processes and Product Use,2.D  Non-energy Products from Fuels and Solvent Use/2.D.1  Lubricant Use,EF not found in guidebook,,
+no gas,LULUCF,4.D  Wetlands/4.D.1  Wetlands Remaining Wetlands/Carbon stock change/4.D.1.3  Other Wetlands Remaining Other Wetlands/Cyprus,2006 IPCC Guidelines do not provide methodology for carbon stock changes in DOM,,
+no gas,LULUCF,4.D  Wetlands/4.D.1  Wetlands Remaining Wetlands/Carbon stock change/4.D.1.3  Other Wetlands Remaining Other Wetlands/Cyprus,2006 IPCC Guidelines do not provide methodology for carbon stock changes in living biomass,,
+no gas,LULUCF,4.D  Wetlands/4.D.1  Wetlands Remaining Wetlands/Carbon stock change/4.D.1.3  Other Wetlands Remaining Other Wetlands/Cyprus,2006 IPCC Guidelines do not provide methodology for carbon stock changes in mineral soils,,
+"Sources and sinks reported elsewhere (""IE"")(3)",,,,,
+GHG,Source/sink category,Allocation as per IPCC Guidelines,Allocation used by the Party,Explanation,
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.2  Manufacturing Industries and Construction/1.A.2.a  Iron and Steel
+1.AA  Fuel Combustion - Sectoral approach/1.A.2  Manufacturing Industries and Construction/1.A.2.a  Iron and Steel/Liquid Fuels",,,Included in 1A2b,
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.3  Transport/1.A.3.d  Domestic Navigation/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.3  Transport/1.A.3.d  Domestic Navigation",,,"Included in 1A3b Road Transport currently, but will be disaggregated.",
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Diesel Oil
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Gasoline
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing/Gasoline",,,Included in 1D3,
+CH4,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing",,,Included in 1D3,
+CH4,4.A  Forest Land/4.A.2  Land Converted to Forest Land/4(V)  Biomass Burning/Wildfires,4(V).A.2/Wildfires,4(V).A.1/Wildfires,CH4 emissions due to wildfires in land converted to forest land are included in CH4 emissions in forest land remaining forest land in table 4(V).A.1/Wildfires,
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.2  Manufacturing Industries and Construction/1.A.2.a  Iron and Steel
+1.AA  Fuel Combustion - Sectoral approach/1.A.2  Manufacturing Industries and Construction/1.A.2.a  Iron and Steel/Liquid Fuels",,,Included in 1A2b,
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.3  Transport/1.A.3.d  Domestic Navigation/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.3  Transport/1.A.3.d  Domestic Navigation",,,"Included in 1A3b Road Transport currently, but will be disaggregated.",
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Diesel Oil
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Gasoline
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing/Gasoline",,,Included in 1D3,
+CO2,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing",,,Included in 1D3,
+CO2,4.A  Forest Land/4.A.1  Forest Land Remaining Forest Land/4(V)  Biomass Burning/Wildfires/Cyprus,4(V).A.1/Wildfires,4.A.1/Carbon stock change in living biomass,CO2 emissions due to wildfires in forest land remaining forest land are included in table 4.A.1/Carbon stock change in living biomass/Losses,
+CO2,4.A  Forest Land/4.A.2  Land Converted to Forest Land/4(V)  Biomass Burning/Wildfires,4(V).A.2/Wildfires,"4.A.1/Carbon stock change in living biomass
+","CO2 emissions due to wildfires in land converted to forest land are included in table 4.A.1/Carbon stock change in living biomass/Losses
+",
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.2  Manufacturing Industries and Construction/1.A.2.a  Iron and Steel
+1.AA  Fuel Combustion - Sectoral approach/1.A.2  Manufacturing Industries and Construction/1.A.2.a  Iron and Steel/Liquid Fuels",,,Included in 1A2b,
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.3  Transport/1.A.3.d  Domestic Navigation/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.3  Transport/1.A.3.d  Domestic Navigation",,,"Included in 1A3b Road Transport currently, but will be disaggregated.",
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Diesel Oil
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery/Gasoline
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.ii  Off-road vehicles and other machinery",,,Included in 1A3b Road Transport,
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing/Gasoline",,,Included in 1D3,
+N2O,"1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing/Biomass
+1.AA  Fuel Combustion - Sectoral approach/1.A.4  Other Sectors/1.A.4.c  Agriculture/Forestry/Fishing/1.A.4.c.iii  Fishing",,,Included in 1D3,
+N2O,4.A  Forest Land/4.A.2  Land Converted to Forest Land/4(V)  Biomass Burning/Wildfires,4(V).A.2/Wildfires,4(V).A.1/Wildfires,N2O emissions due to wildfires in land converted to forest land are included in N2O emissions in forest land remaining forest land in table 4(V).A.1/Wildfires,
+,,,,,
+"(1)   Clearly indicate sources and sinks which are considered in the 2006 IPCC Guidelines but are not considered in the submitted inventory. Explain the reason for not reporting these sources and sinks, in order to avoid arbitrary interpretations.  An entry should be made for each source/sink category for which the notation key ""NE"" (not estimated) is entered in the sectoral tables.",,,,,
+(2) Indicate omitted source/sink category ,,,,,
+"(3)   Clearly indicate sources and sinks in the submitted inventory that are allocated to a sector other than that indicated by the 2006 IPCC Guidelines. Show the sector indicated in the 2006 IPCC Guidelines and the sector to which the source or sink is allocated in the submitted inventory. Explain the reason for reporting these sources and sinks in a different sector/category. An entry should be made for each source/sink for which the notation key ""IE"" (included elsewhere) is used in the sectoral tables.",,,,,

@@ -1,0 +1,57 @@
+TABLE 3.A SECTORAL BACKGROUND DATA FOR AGRICULTURE,,,,,Inventory 1990
+Enteric Fermentation ,,,,,Submission 2023 v3
+(Sheet 1 of 2),,,,,NEW ZEALAND
+,,,,,
+,,,,,
+GREENHOUSE GAS SOURCE AND SINK CATEGORIES,ACTIVITY  DATA  AND  OTHER  RELATED  INFORMATION,,,IMPLIED EMISSION FACTORS,EMISSIONS
+,Population  size(1),Average gross energy intake (GE),Average CH4 conversion rate (Ym)(2),CH4,CH4
+, (1000s),(MJ/head/day),(%),(kg CH4/head/yr),(kt)
+1.    Cattle,8033.98,,,59.12,474.98
+Option A:,,,,,
+Dairy cattle(3),3440.82,163.75,6.50,69.90,240.52
+Non-dairy cattle,4593.16,120.25,6.50,51.05,234.47
+Option B:,,,,,
+Mature dairy cattle,,,,,
+Other mature cattle,,,,,
+Growing cattle,,,,,
+Option C (country-specific(4):,,,,,
+Other (please specify),,,,,
+2.    Sheep,57852.19,,,9.96,576.29
+Other (please specify),57852.19,,,9.96,576.29
+Sheep,57852.19,23.62,6.30,9.96,576.29
+3.    Swine,394.70,,,1.06,0.42
+Other (please specify),394.70,,,1.06,0.42
+Pigs,394.70,NA,6.30,1.06,0.42
+4.    Other livestock(5),10852.90,,,2.46,26.72
+Buffalo,NO,NA,NA,NO,NO
+Camels,0.40,NA,NA,8.00,0.00
+Deer,976.29,41.93,6.40,17.58,17.16
+Goats,1062.90,NA,NA,7.40,7.87
+Horses,94.00,NA,NA,18.00,1.69
+Mules and Asses,0.14,NA,NA,10.00,0.00
+Poultry,8719.17,NA,NA,NE,NE
+Other (please specify),,,,,
+.,,,,,
+"(1)   Parties are encouraged to provide detailed livestock population data by animal type and region, if available, in the national inventory report (NIR), and provide in the documentation box below a reference to the relevant section. Parties should use the same animal population statistics to estimate methane (CH4) emissions from enteric fermentation, CH4 and nitrous oxide (N2O) from manure management, N2O direct emissions from soil and N2O emissions associated with manure production, as well as emissions from the use of manure as fuel, and sewage-related emissions reported in the waste sector. ",,,,,
+(2)    Ym refers to the fraction of gross energy in feed converted to CH4 and should be given in per cent in this table.,,,,,
+"(3)   Including data on dairy heifers, if available.",,,,,
+(4)   Option C should be used when Parties want to report a more disaggregate livestock categorization compared with option A and option B. ,,,,,
+"(5)  If data are available, Parties are encouraged to report at the disaggregated level available from the pre-defined drop-down menu. Furthermore, Parties are encouraged to the extent possible to use the pre-defined category definitions rather than to create similar categories. This ensures the highest possible degree of comparability of the reporting. If detailed data are not available, Parties should include all emissions from other livestock not included in subcategories 3.A.1-3.A.3 under other (please specify).",,,,,
+(6)   This could include fox and raccoon and mink and polecat.,,,,,
+,,,,,
+Documentation box:,,,,,
+"• Parties should provide detailed explanations on the agriculture sector, including information from the additional information box, in chapter 5: Agriculture (CRF sector 3) of the NIR.  Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.",,,,,
+"• Provide a reference to the relevant section in the NIR, in particular with regard to: ",,,,,
+(a) Disaggregation of livestock population (e.g. according to the classification recommended in the 2006 IPCC guidelines;,,,,,
+(b) Parameters relevant to the application of the 2006 IPCC Guidelines.,,,,,
+Documentation box,"3.A/1990: The notation key 'NO' is used up to 2006 because there were no buffalo recorded in New Zealand before 2007.  A small herd of around 200 buffalo were brought into NZ around 2007 for specialised cheese and dairy production. These buffalo are reported within the dairy herd so the notation key 'IE' is used from 2007 onwards. For more information see section 5.1.4 of the NIR (minor livestock categories) 
+3.A/1990: Emissions from pigs are estimated using tier 1 methods. For more information see sections 5.1.4 (minor livestock categories) and 5.2.2 (emissions from minor livestock categories) of the NIR. 
+3.A/1990: See section 5.1.1 (New Zealand farming practices and trends )  of the 2023 (1990-2021) NIR for an explanation of the reasons behind inter-annual changes in New Zealand's implied emission factors  
+3.A/1990: NE:According to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. The 2006 IPCC guidelines state in p.10.27, vol 4-2 that a T1 method for estimating CH4 emissions from Enteric fermentation for poultry has not been developed. Also, table 10-10 in p.10.28, vol 4-2 indicates that there is insufficient data to establish a CH4 EF for Poultry for either developed or developing countries. 
+3.A/1990: See section 5.1.1 (New Zealand farming practices and trends ) of the 2023 (1990-2021) NIR for an explanation of the reasons behind inter-annual changes in New Zealand's implied emission factors  
+3.A/1990: See section 5.1.1 (New Zealand farming practices and trends) of the 2023 (1990-2021) NIR for an explanation of the reasons behind inter-annual changes in New Zealand's implied emission factors  
+3.A/1990: Emissions from goats are estimated using tier 1 methods. The IEF is affected by the proportion of the total goat population that are milking goats. For more information see sections 5.1.3, 5.1.4 (minor livestock categories) and 5.2.2 (emissions from minor livestock categories) of the NIR. 
+3.A/1990: Only population and emissions estimates for alpaca and llama are included in this table, and there are no Middle-eastern camels in New Zealand. The emissions from these animals are estimated using tier 1 methods. For more information see sections 5.1.3, 5.1.4 and 5.2.2 of the NIR 
+3.A/1990: Emissions from mules and asses are estimated using tier 1 methods. For more information see sections 5.1.3 and 5.2.2 of the NIR 
+3.A/1990: Emissions from horses are estimated using tier 1 methods. For more information see sections 5.1.3 and 5.2.2 of the NIR 
+",,,,

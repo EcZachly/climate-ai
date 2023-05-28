@@ -1,0 +1,38 @@
+TABLE 5.C  SECTORAL BACKGROUND DATA  FOR WASTE,,,,,, ,Inventory 1990
+Incineration and open burning of waste,,,,,,,Submission 2023 v3
+(Sheet 1 of 1),,,,,,,NEW ZEALAND
+,,,,,,,
+GREENHOUSE GAS SOURCE AND,ACTIVITY DATA,IMPLIED EMISSION FACTOR,,,EMISSIONS,,
+SINK CATEGORIES,Amount of wastes (incinerated/open burned),,,,,,
+,,CO2         ,CH4,N2O,CO2,CH4,N2O
+,(kt wet weight),(kg/t waste),,,(kt),,
+1. Waste Incineration,26.19,503.25,0.02,0.20,13.18,0.00,0.01
+Biogenic (1),NO,NO,NO,NO,NO,NO,NO
+Municipal solid waste,NO,NO,NO,NO,NO,NO,NO
+Other (please specify)(2),,,,,,,
+Non-biogenic,26.19,503.25,0.02,0.20,13.18,0.00,0.01
+Municipal solid waste,NE,NE,NE,NE,NE,NE,NE
+Other (please specify)(3),26.19,503.25,0.02,0.20,13.18,0.00,0.01
+Other (please specify),26.19,503.25,0.02,0.20,13.18,0.00,0.01
+Quarantine and other waste,26.19,503.25,0.02,0.20,13.18,0.00,0.01
+2. Open burning of waste,783.65,185.97,6.50,0.12,145.73,5.09,0.09
+Biogenic (1),NO,NO,NO,NO,NO,NO,NO
+Municipal solid waste,NO,NO,NO,NO,NO,NO,NO
+Other (please specify),,,,,,,
+Non-biogenic,783.65,185.97,6.50,0.12,145.73,5.09,0.09
+Municipal solid waste,NO,NO,NO,NO,NO,NO,NO
+Other (please specify),783.65,185.97,6.50,0.12,145.73,5.09,0.09
+Rural waste,783.65,185.97,6.50,0.12,145.73,5.09,0.09
+.,,,,,,,
+"Note: Only emissions from waste incineration without energy recovery are to be reported under the waste sector. Emissions from incineration with energy recovery are to be reported under the energy sector, as other fossil fuels (see the 2006 IPCC Guidelines, Volume 2, page 1.15). ",,,,,,,
+,,,,,,,
+"(1)  The CO2 emissions from combustion of biomass materials (e.g. paper, food and wood waste) contained in the waste are biogenic emissions and should not be included in the national totals. If incineration of waste is used for energy purposes, fossil CO2 emissions should be estimated and reported under category 1.A. The cells here are only for information purposes.",,,,,,,
+"(2) If data are available, Parties are encouraged to report at the disaggregated level available from the pre-defined drop-down menu. Furthermore, Parties are encouraged to the extent possible to use the pre-defined category definitions rather than to create similar categories. This ensures the highest possible degree of comparability of the reporting. If detailed data are not available, Parties should include all emissions from incineration of biogenic waste not included in municipal solid waste here.",,,,,,,
+"(3) If data are available, Parties are encouraged to report at the disaggregated level available from the pre-defined drop-down menu. Furthermore, Parties are encouraged to the extent possible to use the pre-defined category definitions rather than to create similar categories. This ensures the highest possible degree of comparability of the reporting. If detailed data are not available, Parties should include all emissions from incineration of non-biogenic waste not included in municipal solid waste here.",,,,,,,
+"(4)  This category includes lubricants, solvents and waste oil. Unless fossil liquid waste is included in other types of waste (e.g. industrial or hazardous waste), the emissions need to be calculated separately.",,,,,,,
+,,,,,,,
+Documentation box: ,,,,,,,
+• Parties should provide detailed explanations on the waste sector in Chapter 7: Waste (CRF sector 5) of the national inventory report (NIR).  Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,,,,
+"• Parties that use country-specific models should provide a reference in the documentation box to the relevant section in the NIR where these models are described, and fill in only the relevant cells of table 5.C.",,,,,,,
+"• Provide a reference to the relevant section of the NIR, in particular with regard to the amount of incinerated waste (specify whether the reported data relate to wet or dry matter).",,,,,,,
+Documentation box,,,,,,,

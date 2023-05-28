@@ -1,0 +1,39 @@
+TABLE 3.F SECTORAL BACKGROUND DATA FOR AGRICULTURE ,,,,,,,,Inventory 1990
+Field burning of agricultural residues(1),,,,,,,,Submission 2023 v6
+(Sheet 1 of 1),,,,,,,,CYPRUS
+,,,,,,,,
+GREENHOUSE GAS SOURCE ,     ACTIVITY DATA AND OTHER RELATED INFORMATION,,,,IMPLIED EMISSION FACTORS,,EMISSIONS,
+AND SINK CATEGORIES,Area burned,Biomass available(1),Combustion factor,Total biomass burned(2)  ,CH4        ,N2O  ,CH4        ,N2O  
+,(k ha/yr), (t dm/ha),, (kt dm),(kg/t dm),,(kt),
+1. Cereals,,,,22.80,3.51,0.09,0.08,0.00
+Wheat,1.28,3.26,0.90,3.74,2.70,0.07,0.01,0.00
+Barley,13.08,1.63,0.89,19.03,3.67,0.10,0.07,0.00
+Maize,NO,NO,NO,NO,NO,NO,NO,NO
+Other (please specify),,,,0.04,2.70,0.07,0.00,0.00
+Oats,0.03,1.70,0.89,0.04,2.70,0.07,0.00,0.00
+2. Pulses,,,,0.48,2.70,0.07,0.00,0.00
+Other (please specify),,,,0.48,2.70,0.07,0.00,0.00
+Bean and Pulses,0.34,3.52,0.40,0.48,2.70,0.07,0.00,0.00
+3. Tubers and roots,,,,1.26,2.70,0.07,0.00,0.00
+Other (please specify),,,,1.26,2.70,0.07,0.00,0.00
+Potatoes,2.00,1.57,0.40,1.26,2.70,0.07,0.00,0.00
+4. Sugar cane,NO,NO,NO,NO,NO,NO,NO,NO
+5. Other (please specify),,,,NO,NO,NO,NO,NO
+.,,,,,,,,
+(1) Mass of fuel available for combustion.,,,,,,,,
+"(2) If Parties use a different methodology than the IPCC default, e.g. based on crop production, the estimate for total biomass burned can be reported without data on area, fuel available and combustion factor. In this case the additional information table should be used to report the parameters used to derive the total biomass burned.",,,,,,,,
+,,,,,,,,
+Additional information,,,,,,,,
+,Wheat,Barley,Maize,Other  (please specify),Oats,,,
+Crop  production (t),10400.00,98000.00,NO,,100.00,,,
+Residue/ Crop ratio,1.51,0.98,NO,,0.91,,,
+Dry matter (dm) fraction of residue,0.89,0.89,NO,,0.89,,,
+Fraction burned in fields,0.25,0.25,NO,,0.25,,,
+Fraction oxidized,,NE,NO,,,,,
+Note: Parties are encouraged to supply the additional information regardless of the methodology applied.,,,,,,,,
+,,,,,,,,
+Documentation box:,,,,,,,,
+Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the national invnetory report (NIR). Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,,,,,
+Documentation box,"3.F.1.2: NE notation key was used due to the fact that no default (CF) is proposed in the 2006 IPCC Guidelines.
+3.F.2.1.i Bean and Pulses: NE notation key was used due to the fact that no default (CF) is proposed in the 2006 IPCC Guidelines.
+3.F.3.1.i Potatoes: NE notation key was used due to the fact that no default (CF) is proposed in the 2006 IPCC Guidelines.",,,,,,,

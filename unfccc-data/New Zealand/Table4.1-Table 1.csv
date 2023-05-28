@@ -1,0 +1,25 @@
+Table 4.1  LAND TRANSITION MATRIX,,,,,,,,,,,Inventory 1990
+Areas and changes in areas between the previous and the current inventory year(1),,,,,,,,,,,Submission 2023 v3
+,,,,,,,,,,,NEW ZEALAND
+,,,,,,,,,,,
+TO:,Forest land (managed),Forest land (unmanaged),Cropland ,Grassland (managed),Grassland (unmanaged),Wetlands (managed),Wetlands (unmanaged),Settlements,Other land,"Total 
+unmanaged 
+land",Initial area
+FROM:,(kha),,,,,,,,,,
+Forest land (managed)(2),9365.10,NO,0.00,1.79,NO,0.00,NO,0.02,0.02,NO,9366.94
+Forest land (unmanaged)(2),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Cropland(2) ,0.01,NO,423.53,0.29,NO,0.00,NO,0.07,0.00,NO,423.91
+Grassland (managed)(2),14.49,NO,3.10,15250.50,NO,0.20,NO,0.96,0.12,NO,15269.37
+Grassland (unmanaged)(2),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Wetlands (managed)(2),0.03,NO,0.00,0.35,NO,761.27,NO,0.00,0.00,NO,761.67
+Wetlands (unmanaged)(2),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Settlements(2),0.00,NO,0.00,0.00,NO,0.00,NO,207.89,0.00,NO,207.90
+Other land(2),0.08,NO,NO,0.09,NO,0.03,NO,0.01,895.09,NO,895.30
+Total unmanaged land (3),NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Final area,9379.71,NO,426.64,15253.03,NO,761.51,NO,208.95,895.24,NO,26925.08
+Net change(4),12.77,NO,2.73,-16.34,NO,-0.15,NO,1.06,-0.06,NO,0.00
+,,,,,,,,,,,
+"(1)  For Parties using reporting approach 1 to represent land areas, only data on the initial and final area per land use should be filled in. Notation key ""NA""  (not applicable) should be used in such cases for the specific land use transitions, allowing for the formulas in the cells for final and initial areas to be overwritten. Coastal wetlands areas which are not part of total land area should not be included in this land matrix.",,,,,,,,,,,
+"(2)  Definitions for the respective land use categories used by the Party should be provided in the NIR, in accordance with the definitions of land use categories in Volume 4, chapter 3, section 3.2 of the 2006 IPCC Guidelines.",,,,,,,,,,,
+(3) Parties may report only the total area of unmanaged land area and enter the notation key IE under the individual unmanaged land uses categories.,,,,,,,,,,,
+(4) Net change is the final area minus the initial area for each of the conversion categories shown at the head of the corresponding row. In the final area row the net change equals zero.,,,,,,,,,,,

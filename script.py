@@ -5,7 +5,7 @@ from schema.schemas import actor_schema, actions_schema, emissions_agg_schema, d
 
 openai.api_key = os.environ.get("OPENAI_KEY")
 CURRENT_YEAR = 2023
-file_name = 'New Zealand/Table1s1-Table 1.csv'
+file_name = 'unfccc-data/New Zealand/Table1s1-Table 1.csv'
 
 
 sample_rows = []
@@ -31,7 +31,7 @@ Use the file name for the name field
 """ + sample_rows_string
 
 additional_prompts = """
-
+Find the actor name in the folder name of the file path and it's a country
 Query the api https://openclimate.openearth.dev/api/v1/search/actor with query parameter name to get actor_id. 
 The response from the api looks like {
 data: [ {actor_id:''} ]
@@ -42,7 +42,6 @@ data: [ {actor_id:''} ]
 country_emissions_prompt = f"""
     Here are the instructions for finding the right data:
         The first few rows may be invalid
-        Find the actor name in the folder name of the file path and it's a country
         Total_emissions should be in a total column
         Use math.floor function to convert emissions to integers
         Year field is hardcoded to {CURRENT_YEAR}
@@ -78,6 +77,6 @@ for (schema_name, prompt) in prompts.items():
     valid_messages = map(lambda x: x[6:], valid_messages)
 
     # Open the file with write permissions
-    with open('output/' + file_name.split('/').pop() + '.' + schema_name +'.py', 'w') as file:
+    with open('output/' + file_name.split('/').pop() + '.' + schema_name + '.py', 'w') as file:
         # Write some data to the file
         file.write('\n'.join(valid_messages))

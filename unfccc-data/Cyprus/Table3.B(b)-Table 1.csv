@@ -1,0 +1,64 @@
+TABLE 3.B(b) SECTORAL BACKGROUND DATA FOR AGRICULTURE,,,,,,,,,,,,,,,,,,,,,Inventory 1990
+N2O Emissions from Manure Management,,,,,,,,,,,,,,,,,,,,,Submission 2023 v6
+(Sheet 1 of 1),,,,,,,,,,,,,,,,,,,,,CYPRUS
+,,,,,,,,,,,,,,,,,,,,,
+GREENHOUSE GAS SOURCE ,ACTIVITY DATA  AND  OTHER  RELATED  INFORMATION,,,,,,,,,,,,,,,IMPLIED EMISSION FACTORS (IEF),,,EMISSIONS,,
+AND SINK CATEGORIES,Population size,Nitrogen excretion rate                       ,Typical animal mass (average),Nitrogen excretion per manure management system (MMS)  (kg N/yr)         ,,,,,,,,,Total N excreted,Total N volatilised as NH3 and NOX(4),N lost through leaching and run-off ,Emission factor per animals,,,N2O,,
+,,,,Anaerobic lagoon  ,Liquid system,Daily spread,Solid storage and dry lot,Pasture range and paddock (1),Composting,Digesters,Burned for fuel or as waste (2),Other(3),,,,Direct,Indirect,,Direct,Indirect,
+,(1000s),"(kg N/
+head/yr)","(kg/
+animal)",,,,,,,,,,(kg N/yr)         ,(kg N/yr)         ,(kg N/yr)         ,,Atmospheric deposition,Nitrogen leaching and run-off,,Atmospheric deposition,Nitrogen Leaching and Run-off
+,,,,,,,,,,,,,,,,"(kg N2O/
+head/yr)",(kg N2O-N/kg N),,(kt),,
+1.  Cattle,54.68,,,NO,710994.40,NO,2843977.62,NO,NO,NO,NO,NO,3554972.02,,,0.51,,,0.03,,
+Option A:,,,,,,,,,,,,,,,,,,,,,
+Dairy cattle(4),22.41,96.36,550.00,NO,431904.79,NO,1727619.17,NO,NO,NO,NO,NO,2159523.96,,,0.76,,,0.02,,
+Non-dairy cattle,32.27,43.24,359.00,NO,279089.61,NO,1116358.45,NO,NO,NO,NO,NO,1395448.06,,,0.34,,,0.01,,
+Option B:,,,,,,,,,,,,,,,,,,,,,
+Mature dairy cattle,,,,,,,,,,,,,,,,,,,,,
+Other mature cattle,,,,,,,,,,,,,,,,,,,,,
+Growing cattle,,,,,,,,,,,,,,,,,,,,,
+Option C (country-specific)(5):,,,,,,,,,,,,,,,,,,,,,
+Other (please specify),,,,,,,,,,,,,,,,,,,,,
+2.  Sheep,290.00,,,NO,NO,NO,5848212.50,NO,NO,NO,NO,NO,5848212.50,,,0.16,,,0.05,,
+Other (please specify),290.00,,,NO,NO,NO,5848212.50,NO,NO,NO,NO,NO,5848212.50,,,0.16,,,0.05,,
+Sheep,290.00,20.17,65.00,NO,NO,NO,5848212.50,NO,NO,NO,NO,NO,5848212.50,,,0.16,,,0.05,,
+3.  Swine,277.94,,,NO,2976906.26,NO,330767.36,NO,NO,NO,NO,NO,3307673.62,,,0.01,,,0.00,,
+Other (please specify),277.94,,,NO,2976906.26,NO,330767.36,NO,NO,NO,NO,NO,3307673.62,,,0.01,,,0.00,,
+Breeding swine,33.76,30.66,200.00,NO,931463.06,NO,103495.90,NO,NO,NO,NO,NO,1034958.96,,,0.02,,,0.00,,
+Market swine,244.18,9.31,50.00,NO,2045443.19,NO,227271.47,NO,NO,NO,NO,NO,2272714.66,,,0.01,,,0.00,,
+4.    Other livestock(6),3904.69,,,NO,NO,NO,7329402.32,NO,NO,NO,NO,NO,7329402.32,,,0.01,,,0.06,,
+Goats,205.00,18.69,40.00,NO,NO,NO,3831040.00,NO,NO,NO,NO,NO,3831040.00,,,0.15,,,0.03,,
+Horses,0.46,52.20,550.00,NO,NO,NO,24021.30,NO,NO,NO,NO,NO,24021.30,,,0.41,,,0.00,,
+Mules and Asses,5.03,23.25,245.00,NO,NO,NO,116867.35,NO,NO,NO,NO,NO,116867.35,,,0.18,,,0.00,,
+Poultry,3694.20,0.91,3.00,NO,NO,NO,3357473.67,NO,NO,NO,NO,NO,3357473.67,,,0.01,,,0.03,,
+Other (please specify),NO,,,NO,NO,NO,NO,NO,NO,NO,NO,NO,,,,NO,,,NO,,
+5. Indirect N2O emission,,,,,,,,,,,,,,5292575.69,163523.60,,0.02,0.01,,0.08,0.00
+Total N handled per MMS (kg N/year),,,,NO,3687900.66,NO,16352359.79,,NO,NO,,NO,,,,,,,,,
+IEF direct N2O (kg N2O-N/kg N handled),,,,NO,0.00,NO,0.01,,NO,NO,,NO,,,,,,,,,
+Direct N2O emissions per MMS (Gg[kt] N2O),,,,NO,0.01,NO,0.13,,NO,NO,,NO,,,,0.01,,,0.13,,
+,,,,,,,,,,,,,,,,,,,,,
+"(1)    Direct and indirect nitrous oxide (N2O) emissions associated with the manure deposited on agricultural soils and pasture, range and paddock systems are included under N2O emissions from managed soils (see table 3(III).D-E).",,,,,,,,,,,,,,,,,,,,,
+"(2)   The emissions associated with the burning of dung are to be reported under fuel combustion, if used as fuel and under waste incineration, if burned without energy recovery.",,,,,,,,,,,,,,,,,,,,,
+"(3) This could include pit storage, deep bedding, poultry manure with and without litter, aerobic treatment.",,,,,,,,,,,,,,,,,,,,,
+"(4)  Total nitrogen (N) volatilized does not include N volatilized from manure deposited in pasture, range and paddock systems.",,,,,,,,,,,,,,,,,,,,,
+(5)   Option C should be used when Parties want to report a more disaggregated livestock categorization compared with option A and option B. ,,,,,,,,,,,,,,,,,,,,,
+"(6)   If data are available, Parties are encouraged to report at the disaggregated level available from the pre-defined drop-down menu. Furthermore, Parties are encouraged to the extent possible to use the pre-defined category definitions rather than to create similar categories. This ensures the highest possible degree of comparability of the reporting. If detailed data are not available, Parties should include all emissions from other livestock not included in subcategories 3.B.1-3.B.3 under other (please specify).",,,,,,,,,,,,,,,,,,,,,
+(7)   This could include fox and raccoon and mink and polecat.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Documentation box: ,,,,,,,,,,,,,,,,,,,,,
+• Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the national inventory report (NIR). Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,,,,,,,,,,,,,,,,,,
+"• Provide a reference to the relevant section in the NIR, in particular with regard to: ",,,,,,,,,,,,,,,,,,,,,
+          (a) Disaggregation of livestock population (e.g. according to the classification recommended in the 2006 IPCC Guidelines);,,,,,,,,,,,,,,,,,,,,,
+"          (b) Information on other MMS, if reported. ",,,,,,,,,,,,,,,,,,,,,
+Documentation box,"3.B.2.1 Dairy Cattle: L8: Methodology: Solid storage according to the guidelines
+L11: Methodology: Anaerobic treatment according to the guidelines
+3.B.2.1 Non-Dairy Cattle: L8: Methodology: Solid storage according to the quidelines
+L11: Methodoligy: Anaerobic treatment according to the quidelines
+3.B.2.2 Sheep: L8: Methodology: Solid storage according to the quidelines
+3.B.2.3 Breeding swine: NMVOC (included elsewhere - Market swine)
+L6: Methodology: Aerobic treatment according to the quidelines.
+L11: Methodoligy: Anaerobic digester according to the quidelines
+3.B.2.3 Market swine: L6: Methodology: Aerobic treatment according to the quidelines
+L11: Methodology: Anaerobic digester according to the quidelines
+3.B.2.5: No methodology recommended by the IPCC guidelines",,,,,,,,,,,,,,,,,,,,

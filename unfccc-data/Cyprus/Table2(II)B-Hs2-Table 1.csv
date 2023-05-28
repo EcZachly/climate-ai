@@ -1,0 +1,101 @@
+TABLE 2(II).B-H  SECTORAL BACKGROUND DATA FOR  INDUSTRIAL PROCESSES AND PRODUCT USE,,,,,,,,,,,Inventory 1990
+Sources of fluorinated substances,,,,,,,,,,,Submission 2023 v6
+(Sheet 2 of 2),,,,,,,,,,,CYPRUS
+,,,,,,,,,,,
+GREENHOUSE GAS SOURCE,Gas (please specify),ACTIVITY DATA,,,IMPLIED  EMISSION  FACTORS(1),,,EMISSIONS(2),,,
+AND SINK CATEGORIES,,Amount,,,Product manufacturing factor,Product life factor,Disposal loss factor,From manufacturing,From stocks,From disposal,Recovery(3)
+,One row per substance,Filled into new manufactured products,In operating systems (average annual stocks),Remaining in products at decommissioning,,,,,,,
+,, (t),,,%,,,(t),,,
+F.  Product uses as substitutes for ODS ,,,,,,,,,,,
+1.  Refrigeration and airconditioning,,,,,,,,,,,
+Commercial refrigeration,,,,,,,,,,,
+HFC-32,HFC-32,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-125,HFC-125,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-134a,HFC-134a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-143a,HFC-143a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Domestic  refrigeration,,,,,,,,,,,
+HFC-125,HFC-125,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-134a,HFC-134a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-143a,HFC-143a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Industrial refrigeration,,,,,,,,,,,
+HFC-125,HFC-125,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-134a,HFC-134a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-143a,HFC-143a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Transport refrigeration,,,,,,,,,,,
+HFC-125,HFC-125,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-134a,HFC-134a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-143a,HFC-143a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Mobile air-conditioning,,,,,,,,,,,
+HFC-134a,HFC-134a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Stationary air-conditioning,,,,,,,,,,,
+HFC-32,HFC-32,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-125,HFC-125,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+HFC-134a,HFC-134a,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+2.  Foam blowing agents,,,,,,,,,,,
+Closed cells,,,,,,,,,,,
+HFC-134a,HFC-134a,NE,NE,NE,NO,NO,NE,NO,NO,NE,NE
+Open cells,,,,,,,,,,,
+3.  Fire protection ,,,,,,,,,,,
+HFC-227ea,HFC-227ea,NE,NE,NE,NO,NO,NE,NO,NO,NE,NE
+4.  Aerosols,,,,,,,,,,,
+Metered dose inhalers,,,,,,,,,,,
+HFC-134a,HFC-134a,NE,NE,,NO,NO,,NO,NO,,NE
+Other (please specify - one row per substance),,,,,,,,,,,
+5.  Solvents,,,,,,,,,,,
+6.  Other applications(9) ,,,,,,,,,,,
+Emissive,,,,,,,,,,,
+Contained,,,,,,,,,,,
+G.  Other product manufacture and use,,,,,,,,,,,
+1.  Electrical equipment(10),,,,,,,,,,,
+SF6,SF6,1.05,1.05,NO,8.50,2.59,NO,0.09,0.03,NO,NO
+2.  SF6 and PFCs from other product use(11),,,,,,,,,,,
+Military applications ,,,,,,,,,,,
+Accelerators,,,,,,,,,,,
+Soundproof windows,,,,,,,,,,,
+Adiabatic properties: shoes and tyres,,,,,,,,,,,
+Other (please specify - one row per substance),,,,,,,,,,,
+4.  Other ,,,,,,,,,,,
+Other product use,,,,,,,,,,,
+H.   Other (please specify) (one row per activity/substance),,,,,,,,,,,
+.,,,,,,,,,,,
+"NOTE:  In the case of prompt emissions (such as from aerosols, open cells, and some of the solvents), the consumption in the same year should be reported as consumption in new manufactured products and consumption in the previous year -  as in operational stock. Use column for emissions from manufacturing to also report installation emissions.  Use the column for emissions from stock to report emissions from use, leakage, servicing and maintenance.  Disposal emissions could also include emissions from recycling and destruction.",,,,,,,,,,,
+,,,,,,,,,,,
+(1)    The implied emission factors (IEFs) are estimated on the basis of gross emissions as follows: IEF = emissions  / activity data (AD). ,,,,,,,,,,,
+"(2)     Final emissions are to be reported (after subtracting the amounts of emission recovery, oxidation, destruction or transformation).       ",,,,,,,,,,,
+"(3)       Amounts of emission recovery, oxidation, destruction or transformation, including from disposal emissions, where applicable.",,,,,,,,,,,
+"(4)      Fugitive emissions include emissions from fluorinated gas (F-gas) production. Some of the possible activities include the telomerization process used in the production of fluorochemicals fluids and polymers, photo oxidation of tetrafluoroethylene to make fluorochemical fluids, sulphur hexafluoride (SF6) production, halogen exchange processes to make low-boiling PFCs like C2F6 and CF4, HFC 134a and 245fa, NF3 manufacturing, and production of uranium hexafluoride, of fluorinated monomers (e.g. tetrafluoroethylene and hexafluoropropylene), and of fluorochemical agrochemicals and/or anesthetics.  Both production and handling losses are to be included. ",,,,,,,,,,,
+"(5)       According to the 2006 IPCC Guidelines possible SF6 from casting are to be included under Mg production. However, in the current CRF a separate subcategory exists and is reported by Parties. ",,,,,,,,,,,
+(6)     Include emissions from cover gases and generated secondary compounds in the Mg foundries.,,,,,,,,,,,
+"(7)       Include data for the consumption of the F-gases in the process, i.e. use (filling) during manufacture. The emissions include evaporative losses and by-product emissions.  In the case of by-product emissions, include a separate row and include the information on the relevant AD in the documentation box of the table.",,,,,,,,,,,
+"(8)      Could include emissions from micro-electromechanical systems, hard disk drive manufacturing, device testing, and vapour phase reflow soldering.",,,,,,,,,,,
+"(9)   Emissions may include HFCs and PFCs used in sterilization equipment, for tobacco expansion applications, as solvents in the manufacture of adhesives, coating and inks.",,,,,,,,,,,
+"(10)  Include data on electrical switchgear gas, gas circuit breakers, high voltage gas-insulated lines, outdoor gas-insulated instrument transformers and other equipment.  Emissions and AD from equipment installation onsite should be reported under manufacturing for equipment installed within the country (also if handled by a foreign manufacturer).",,,,,,,,,,,
+"(11)  Category includes SF6 and PFCs used in military applications (e.g. in airborne radar systems and heat transfer fluids in high-powered electronic applications), SF6 used in university and research, and PFCs used as heat transfer fluids in commercial and consumer applications, used in cosmetics and in medical applications, and other.",,,,,,,,,,,
+,,,,,,,,,,,
+Documentation box:,,,,,,,,,,,
+• Parties should provide detailed explanations on the industrial processes sector in chapter 4: industrial processes (CRF sector 2) of the national inventory report (NIR).  Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,,,,,,,,
+"• Where only aggregate figures for activity data are provided, e.g. due to reasons of confidentiality (see footnote 1 to table 2(II)), a note indicating this should be provided in this documentation box. ",,,,,,,,,,,
+"• Where applying tier 2 and country-specific methods, specify any other relevant activity data used in this documentation box, including a reference to the section of the NIR where more detailed information can be found.",,,,,,,,,,,
+"• Use this documentation box for providing clarification on emission recovery, oxidation, destruction and/or transformation, and provide a reference to the section of the NIR where more detailed information can be found.",,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,"2.G.1 SF6: where NE is used, the necessary activity data is not available to estimate the amounts or the emissions. The emissions have been estimated based on a country specific method and are all assumed to be from stocks since no data is available to estimate emissions from disposal.",,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,
+Documentation box,,,,,,,,,,,

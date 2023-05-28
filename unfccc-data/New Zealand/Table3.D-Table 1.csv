@@ -1,0 +1,49 @@
+TABLE 3.D  SECTORAL BACKGROUND DATA FOR AGRICULTURE ,,,,Inventory 1990
+Direct and indirect N2O emissions from agricultural soils,,,,Submission 2023 v3
+(Sheet 1 of 1),,,,NEW ZEALAND
+,,,,
+GREENHOUSE GAS SOURCE AND SINK CATEGORIES,ACTIVITY  DATA   AND  OTHER  RELATED  INFORMATION,,IMPLIED EMISSION FACTORS,EMISSIONS
+,Description,Value,,N2O
+,,kg N/yr,kg N2O-N/kg N(1)(2),(kt)
+a. Direct N2O emissions from managed soils ,,,,13.62
+1.   Inorganic N fertilizers(3),N input from application of inorganic fertilizers to cropland and grassland,59265000.00,0.01,0.77
+2.   Organic N fertilizers(3),N input from organic N fertilizers to cropland and grassland,15257003.05,0.01,0.12
+      a. Animal manure applied to soils,N input from manure applied to soils,15257003.05,0.01,0.12
+      b. Sewage sludge applied to soils,N input from sewage sludge applied to soils,IE,IE,IE
+      c. Other organic fertilizers applied to soils,N input from application of other organic fertilizers,NE,NE,NE
+3.   Urine and dung deposited by grazing animals,"N excretion on pasture, range and paddock",1453747640.41,0.00,9.93
+4.   Crop residues,N in crop residues returned to soils,37467565.44,0.01,0.59
+5.  Mineralization/immobilization associated with loss/gain of soil organic matter (4)(5),N in mineral soils that is mineralized in association with loss of soil C,6165.43,0.01,0.00
+6.   Cultivation of organic soils (i.e. histosols)(2),Area of cultivated organic soils,175828.71,8.00,2.21
+7.   Other,,NO,NO,NO
+b. Indirect N2O Emissions from managed soils ,,,,3.88
+1.   Atmospheric deposition(6),Volatilized N from agricultural inputs of N,152826964.35,0.01,2.40
+2.   Nitrogen leaching and run-off,N from fertilizers and other agricultural inputs that is lost through leaching and run-off,125626243.27,0.01,1.48
+,,,,
+"(1)   To convert from N2O-N to N2O emissions, multiply by 44/28. ",,,,
+"(2)   For cultivation of histosols the unit of the IEF is kg N2O–N/ha. The emissions from cultivation/management of croplands and grasslands are to be included. For a definition of organic soils, see footnote 4, page 11.6 of chapter 11 of volume 4 of the 2006 IPCC Guidelines.",,,,
+"(3)    Include the application of fertilizers on cropland and grassland. If the application of fertilizers to other land categories cannot be separately identified, this application should be included here.",,,,
+(4)   Emissions from management changes in cropland remaining cropland would be reported in this table. ,,,,
+"(5)  Methodologies for N2O emissions from N mineralization/immobilization associated with loss/gain of soil organic matter resulting management of mineral soils are based on equations 11.1, 11.2 and 11.8 of the 2006 IPCC Guidelines. N2O immobilization associated with gain of organic matter resulting from management of mineral soils can be reported only when a Party applies a tier 3 approach in the relevant calculation.",,,,
+"(6)   Only atmospheric deposition of nitrogen (N) volatilised from agricultural inputs of N are to be reported here, not including NOx associated with the burning of savannahs and crop residues.",,,,
+,,,,
+Additional information,,,,
+Fraction (a),Description,Value,,
+FracGASF,Fraction of synthetic fertilizer N applied to soils that volatilises as NH3 and NOX,0.10,,
+FracGASM,Fraction of livestock N excretion that volatilises as NH3 and NOX,0.10,,
+FracLEACH-(H),Fraction of N input to managed soils that is lost through leaching and run-off,0.07,,
+Other fractions (please specify),,,,
+(a) Use the definitions for fractions as specified in the 2006 IPCC Guidelines (pp. 11.13-11.22 of chapter 11 of volume 4) ,,,,
+,,,,
+Documentation box:,,,,
+• Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the NIR. Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,
+"• Provide a reference to the relevant section in the NIR, in particular with regard to: ",,,,
+"    (a) Background information on methane (CH4) emissions from agricultural soils, if accounted for under the agriculture sector;",,,,
+    (b) Full list of assumptions and fractions used.,,,,
+Documentation box,"3.D/1990: Direct nitrous oxide emissions from sewage sludge are reported under 5.A.1.a in the Waste sector. Sewage sludge activity data are obtained from water treatment industry surveys, and do not disaggregate the amount of sludge used for different purposes. Due to the small amount of emissions coming from sewage sludge, further disaggregation of the activity data is considered resource prohibitive. Sewage sludge is a very small source of nitrogen, contributing 84 tonnes of N annually (Van der Weerden et al., 2014). Emissions of N2O are less than 0.002 Gg.  
+3.D/1990: The implied emissions for inorganic fertiliser is affected by the proportion of nitrogen fertiliser that is urea. For more information see section 5.5.2 of the NIR (Synthetic nitrogen fertiliser). 
+3.D/1990: N2O emissions from urine and dung are estimated using a combination of tier one and two methodology. For more information see section 5.5.2 (Urine and dung deposited by grazing animals) in the NIR. 
+3.D/1990: Emissions from this category are insignificant in accordance with paragraph 37(b) of the Guidelines for the preparation of national communications by Parties included in Annex I to the Convention (Part I). Emissions are roughly estimated to be 20 kt CO2-e (van der Weerden et al., 2014). Emissions are below threshold of 0.05 per cent of national total GHG emissions and do not exceed 500kt CO2-e 
+3.D/1990: New Zealand uses a Tier 1 methodology with country-specific parameters to calculate indirect N2O emissions from nitrogen leaching. For more information see section 5.5.2 (Leaching and runoff) of the NIR. 
+3.D/1990: The change in implied emission factors over 1990-2020 for organic nitrogen fertilisers is due to the increased proportion of animal manure from dairy, which has a lower emission factor compared to manure from poultry and swine. For more information see section 5.5.2 (Organic nitrogen fertilisers) of the NIR. Emissions from swine and poultry are estimated using tier one methods. for more information see 5.1.4 (minor livestock categories) of the NIR. 
+3.D.1.1: ",,,

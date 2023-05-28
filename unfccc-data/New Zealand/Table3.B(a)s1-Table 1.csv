@@ -1,0 +1,58 @@
+TABLE 3.B(a) SECTORAL BACKGROUND DATA FOR AGRICULTURE,,,,,,,,,Inventory 1990
+CH4 Emissions from Manure Management,,,,,,,,,Submission 2023 v3
+(Sheet 1 of 2),,,,,,,,,NEW ZEALAND
+, ,,,,,,,,
+GREENHOUSE GAS SOURCE,ACTIVITY  DATA  AND  OTHER  RELATED  INFORMATION,,,,,,,IMPLIED EMISSION FACTORS,EMISSIONS
+AND SINK CATEGORIES,Population  size,Allocation by climate region(1),,,Typical animal mass (average),VS(2) daily excretion (average),CH4 producing potential (Bo)(2) (average),,
+,,Cool,Temperate,Warm,,,,CH4,CH4
+, (1000s), (%),,,(kg),(kg dm/head/day),(m3 CH4/kg VS),(kg CH4/head/yr),(kt)
+1.    Cattle,8033.98,,,,,,,2.46,19.79
+Option A:,,,,,,,,,
+Dairy cattle(3),3440.82,NO,100.00,NO,447.36,NA,NA,4.81,16.55
+Non-dairy cattle,4593.16,NO,100.00,NO,406.34,NA,NA,0.71,3.24
+Option B:,,,,,,,,,
+Mature dairy cattle,,,,,,,,,
+Other mature cattle,,,,,,,,,
+Growing cattle,,,,,,,,,
+Option C (country-specific)(4):,,,,,,,,,
+Other (please specify),,,,,,,,,
+2.    Sheep,57852.19,,,,,,,0.10,5.87
+Other (please specify),57852.19,,,,,,,0.10,5.87
+Sheep,57852.19,NO,100.00,NO,41.34,NA,NA,0.10,5.87
+3.    Swine,394.70,,,,,,,5.94,2.34
+Other (please specify),394.70,,,,,,,5.94,2.34
+Pigs,394.70,NO,100.00,NO,49.39,NA,NA,5.94,2.34
+4.    Other livestock(5),10852.90,,,,,,,0.08,0.87
+Buffalo,NO,NO,100.00,NO,NA,NA,NA,NO,NO
+Camels,0.40,NO,100.00,NO,NA,NA,NA,0.10,0.00
+Deer,976.29,NO,100.00,NO,102.70,NA,NA,0.21,0.21
+Goats,1062.90,NO,100.00,NO,NA,NA,NA,0.20,0.21
+Horses,94.00,NO,100.00,NO,NA,NA,NA,2.34,0.22
+Mules and Asses,0.14,NO,100.00,NO,NA,NA,NA,1.10,0.00
+Poultry,8719.17,NO,100.00,NO,NA,NA,NA,0.03,0.23
+Other (please specify),,,,,,,,NA,NA
+.,,,,,,,,,
+"(1)   Climate regions are defined in terms of annual average temperature as follows: cool = less than 15 °C; temperate = 15–25 °C inclusive; and  warm = greater than 25 °C (see table 10.17 of chapter 10, volume 4 of the 2006 IPCC Guidelines).",,,,,,,,,
+"(2)   VS = volatile solids;  Bo = maximum methane producing capacity for manure (pp. 10.42 and 10.43 of chapter 10, volume 4 of the 2006 IPCC Guidelines); dm = dry matter. Provide average values for VS and Bo where original calculations were made at a more disaggregated level of these livestock categories. ",,,,,,,,,
+"(3)   Including data on dairy heifers, if available.",,,,,,,,,
+(4)   Option C should be used when Parties want to report a more disaggregated livestock categorization compared with option A and option B. ,,,,,,,,,
+"(5)  If data are available, Parties are encouraged to report at the disaggregated level available from the pre-defined drop-down menu. Furthermore, Parties are encouraged to the extent possible to use the pre-defined category definitions rather than to create similar categories. This ensures the highest possible degree of comparability of the reporting. If detailed data are not available, Parties should include all emissions from other livestock not included in subcategories 3.B.1-3.B.3 under other (please specify).",,,,,,,,,
+(6)   This could include fox and raccoon and mink and polecat. ,,,,,,,,,
+,,,,,,,,,
+Documentation box: ,,,,,,,,,
+• Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the national invenotry report (NIR).  Use this documentation box to provide references to relevant sections of the NIR if any additional information and further details are needed to understand the content of this table.,,,,,,,,,
+"• Provide a reference to the relevant section in the NIR, in particular with regard to: ",,,,,,,,,
+(a) Disaggregation of livestock population (e.g. according to the classification recommended in the 2006 IPCC Guidelines;,,,,,,,,,
+(b) Parameters relevant to the application of the 2006 IPCC Guidelines;,,,,,,,,,
+"(c) Information on how the MCFs are derived, if  relevant data could not be provided in the additional information box.",,,,,,,,,
+Documentation box,"3.B.1/1990: Only population and emissions estimates for alpaca and llama are included in this table, and there are no Middle-eastern camels in New Zealand. The emissions from these animals are estimated using tier 1 methods. For more information see sections 5.1.3, 5.1.4 and 5.2.2 of the NIR  
+3.B.1/1990: The notation key 'NO' is used up to 2006 because there were no buffalo recorded in New Zealand before 2007.  A small herd of around 200 buffalo were brought into NZ around 2007 for specialised cheese and dairy production. These buffalo are reported within the dairy herd so the notation key 'IE' is used from 2007 onwards. For more information see section 5.1.4 of the NIR (minor livestock categories) 
+3.B.1/1990: Emissions from mules and asses are estimated using tier 1 methods. For more information see section 5.3.2 of the NIR (manure methane from minor livestock categories) 
+3.B.1/1990: Emissions from poultry are estimated using tier 1 methods. For more information see section 5.1.4 of the NIR (minor livestock categories). IEFs for poultry are affected by the change over time in the population proportions of the different poultry categories used in the inventory. 
+3.B.1/1990: Emissions from horses are estimated using tier 1 methods. For more information see section 5.3.2 of the NIR (manure methane from minor livestock categories) 
+3.B.1/1990: Emissions from goats are estimated using tier 1 methods. For more information see sections 5.1.3, 5.1.4 (minor livestock categories), 5.2.2 (emissions from minor livestock categories) and 5.3.2 (manure methane from minor livestock categories) of the NIR. 
+3.B.1/1990: See section 5.1.1 (New Zealand farming practices and trends) of the 2023 (1990-2021) NIR for an explanation of the reasons behind inter-annual changes in New Zealand's implied emission factors  
+3.B.1/1990: Emissions from pigs are estimated using tier 1 methods. For more information see sections section 5.1.4 (minor livestock categories) and 5.3.2 (manure methane from minor livestock categories)of the NIR.  
+3.B.1/1990: See section 5.1.1 (Effect of productivity improvements, droughts and commodity prices on implied emission factors) of the 2023 (1990-2021) NIR for an explaination of the reasons behind inter-annual changes in New Zealand's implied emission factors  
+3.B.1.1 Non-Dairy Cattle: 
+3.B.1.2 Sheep: ",,,,,,,,

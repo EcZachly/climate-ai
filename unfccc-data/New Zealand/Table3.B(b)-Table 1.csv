@@ -1,0 +1,71 @@
+TABLE 3.B(b) SECTORAL BACKGROUND DATA FOR AGRICULTURE,,,,,,,,,,,,,,,,,,,,,Inventory 1990
+N2O Emissions from Manure Management,,,,,,,,,,,,,,,,,,,,,Submission 2023 v3
+(Sheet 1 of 1),,,,,,,,,,,,,,,,,,,,,NEW ZEALAND
+,,,,,,,,,,,,,,,,,,,,,
+GREENHOUSE GAS SOURCE ,ACTIVITY DATA  AND  OTHER  RELATED  INFORMATION,,,,,,,,,,,,,,,IMPLIED EMISSION FACTORS (IEF),,,EMISSIONS,,
+AND SINK CATEGORIES,Population size,Nitrogen excretion rate                       ,Typical animal mass (average),Nitrogen excretion per manure management system (MMS)  (kg N/yr)         ,,,,,,,,,Total N excreted,Total N volatilised as NH3 and NOX(4),N lost through leaching and run-off ,Emission factor per animals,,,N2O,,
+,,,,Anaerobic lagoon  ,Liquid system,Daily spread,Solid storage and dry lot,Pasture range and paddock (1),Composting,Digesters,Burned for fuel or as waste (2),Other(3),,,,Direct,Indirect,,Direct,Indirect,
+,(1000s),"(kg N/
+head/yr)","(kg/
+animal)",,,,,,,,,,(kg N/yr)         ,(kg N/yr)         ,(kg N/yr)         ,,Atmospheric deposition,Nitrogen leaching and run-off,,Atmospheric deposition,Nitrogen Leaching and Run-off
+,,,,,,,,,,,,,,,,"(kg N2O/
+head/yr)",(kg N2O-N/kg N),,(kt),,
+1.  Cattle,8033.98,,,15609964.03,NO,NO,NO,617667812.16,NO,NO,NO,NO,633277776.19,,,NO,,,NO,,
+Option A:,,,,,,,,,,,,,,,,,,,,,
+Dairy cattle(4),3440.82,96.44,447.36,15609964.03,NO,NO,NO,316208634.15,NO,NO,NO,NO,331818598.17,,,NO,,,NO,,
+Non-dairy cattle,4593.16,65.63,406.34,NO,NO,NO,NO,301459178.01,NO,NO,NO,NO,301459178.01,,,NO,,,NO,,
+Option B:,,,,,,,,,,,,,,,,,,,,,
+Mature dairy cattle,,,,,,,,,,,,,,,,,,,,,
+Other mature cattle,,,,,,,,,,,,,,,,,,,,,
+Growing cattle,,,,,,,,,,,,,,,,,,,,,
+Option C (country-specific)(5):,,,,,,,,,,,,,,,,,,,,,
+Other (please specify),,,,,,,,,,,,,,,,,,,,,
+2.  Sheep,57852.19,,,NO,NO,NO,NO,794213036.74,NO,NO,NO,NO,794213036.74,,,NO,,,NO,,
+Other (please specify),57852.19,,,NO,NO,NO,NO,794213036.74,NO,NO,NO,NO,794213036.74,,,NO,,,NO,,
+Sheep,57852.19,13.73,41.34,NO,NO,NO,NO,794213036.74,NO,NO,NO,NO,794213036.74,,,NO,,,NO,,
+3.  Swine,394.70,,,728223.54,NO,912943.65,1509731.72,316155.58,NO,NO,NO,85255.44,3552309.93,,,0.12,,,0.05,,
+Other (please specify),394.70,,,728223.54,NO,912943.65,1509731.72,316155.58,NO,NO,NO,85255.44,3552309.93,,,0.12,,,0.05,,
+Pigs,394.70,9.00,49.39,728223.54,NO,912943.65,1509731.72,316155.58,NO,NO,NO,85255.44,3552309.93,,,0.12,,,0.05,,
+4.    Other livestock(6),10852.90,,,"NO,NA","NO,NA","NO,NA","NO,NA",41550635.94,"NO,NA","NO,NA","NO,NA",3605067.91,45155703.85,,,0.00,,,0.01,,
+Buffalo,NO,NO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,NO,,,NO,,
+Camels,0.40,13.73,NA,NO,NO,NO,NO,5450.14,NO,NO,NO,NO,5450.14,,,NO,,,NO,,
+Deer,976.29,25.20,102.70,NO,NO,NO,NO,24602757.66,NO,NO,NO,NO,24602757.66,,,NO,,,NO,,
+Goats,1062.90,10.60,NA,NO,NO,NO,NO,11266740.00,NO,NO,NO,NO,11266740.00,,,NO,,,NO,,
+Horses,94.00,60.23,NA,NO,NO,NO,NO,5661150.00,NO,NO,NO,NO,5661150.00,,,NO,,,NO,,
+Mules and Asses,0.14,26.83,NA,NO,NO,NO,NO,3782.68,NO,NO,NO,NO,3782.68,,,NO,,,NO,,
+Poultry,8719.17,0.41,NA,NO,NO,NO,NO,10755.45,NO,NO,NO,3605067.91,3615823.37,,,0.00,,,0.01,,
+Other (please specify),,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,,,NA,,
+5. Indirect N2O emission,,,,,,,,,,,,,,7194183.23,NE,,0.02,NE,,0.11,NE
+Total N handled per MMS (kg N/year),,,,16338187.56,"NO,NA",912943.65,1509731.72,,"NO,NA","NO,NA",,3690323.35,,,,,,,,,
+IEF direct N2O (kg N2O-N/kg N handled),,,,NE,NO,IE,0.02,,NO,NO,,0.00,,,,,,,,,
+Direct N2O emissions per MMS (Gg[kt] N2O),,,,NE,NO,IE,0.05,,NO,NO,,0.01,,,,0.00,,,0.05,,
+,,,,,,,,,,,,,,,,,,,,,
+"(1)    Direct and indirect nitrous oxide (N2O) emissions associated with the manure deposited on agricultural soils and pasture, range and paddock systems are included under N2O emissions from managed soils (see table 3(III).D-E).",,,,,,,,,,,,,,,,,,,,,
+"(2)   The emissions associated with the burning of dung are to be reported under fuel combustion, if used as fuel and under waste incineration, if burned without energy recovery.",,,,,,,,,,,,,,,,,,,,,
+"(3) This could include pit storage, deep bedding, poultry manure with and without litter, aerobic treatment.",,,,,,,,,,,,,,,,,,,,,
+"(4)  Total nitrogen (N) volatilized does not include N volatilized from manure deposited in pasture, range and paddock systems.",,,,,,,,,,,,,,,,,,,,,
+(5)   Option C should be used when Parties want to report a more disaggregated livestock categorization compared with option A and option B. ,,,,,,,,,,,,,,,,,,,,,
+"(6)   If data are available, Parties are encouraged to report at the disaggregated level available from the pre-defined drop-down menu. Furthermore, Parties are encouraged to the extent possible to use the pre-defined category definitions rather than to create similar categories. This ensures the highest possible degree of comparability of the reporting. If detailed data are not available, Parties should include all emissions from other livestock not included in subcategories 3.B.1-3.B.3 under other (please specify).",,,,,,,,,,,,,,,,,,,,,
+(7)   This could include fox and raccoon and mink and polecat.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Documentation box: ,,,,,,,,,,,,,,,,,,,,,
+• Parties should provide detailed explanations on the agriculture sector in chapter 5: Agriculture (CRF sector 3) of the national inventory report (NIR). Use this documentation box to provide references to relevant sections of the NIR if any additional information and/or further details are needed to understand the content of this table.,,,,,,,,,,,,,,,,,,,,,
+"• Provide a reference to the relevant section in the NIR, in particular with regard to: ",,,,,,,,,,,,,,,,,,,,,
+          (a) Disaggregation of livestock population (e.g. according to the classification recommended in the 2006 IPCC Guidelines);,,,,,,,,,,,,,,,,,,,,,
+"          (b) Information on other MMS, if reported. ",,,,,,,,,,,,,,,,,,,,,
+Documentation box,"3.B.2/1990: According to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting.The IPCC (2006) guidelines for determining indirect N2O emissions does not provide a methodology for estimating emissions from leaching and run-off. In addition, indirect N2O emissions from leaching and run-off are insigificant in New Zealand, as almost all livestock are kept outdoors all year around on pasture.  
+3.B.2/1990: The notation key 'NO' is used up to 2006 because there were no buffalo recorded in New Zealand before 2007.  A small herd of around 200 buffalo were brought into NZ around 2007 for specialised cheese and dairy production. These buffalo are reported within the dairy herd so the notation key 'IE' is used from 2007 onwards. For more information see section 5.1.4 of the NIR (minor livestock categories) 
+3.B.2/1990: N2O emissions from goats are reported in the agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR.  In the case of NMVOC emissions, according to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. 
+3.B.2/1990: Direct and indirect N2O emissions from the manure deposited by sheep are reported under the Agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR. 
+3.B.2/1990: Direct nitrous oxide emissions from anaerobic lagoons (dairy and swine) and daily spread (swine), are reported under Agricultural soils. The IPCC GL assume that negligible direct N2O emissions occur in anaerobic lagoons and daily spread, and only occur once the stored effluent is spread onto agricultural soil. For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR.  According to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. 
+3.B.2/1990: Direct nitrous oxide emissions from anaerobic lagoons (dairy and swine) and daily spread (swine), are reported under Agricultural soils. The IPCC GL assume that negligible direct N2O emissions occur in anaerobic lagoons and daily spread, and only occur once the stored effluent is spread onto agricultural soil 
+3.B.2/1990: IEFs for poultry are affected by the change over time in the population proportions of the different poultry categories used in the inventory. for more information see section 5.1.4 (Minor livestock categories) and section 5.3.2 of the NIR (Nitrogen excretion rates for the minor livestock categories). Emissions from poultry are estimated using tier 1 methods. For more information see section 5.1.4 of the NIR (minor livestock categories).  In the case of NMVOC emissions, according to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting.
+ 
+3.B.2/1990: Direct and indirect N2O emissions from the manure deposited by non-dairy cattle are reported under the Agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR. 
+3.B.2/1990: N2O emissions from mules and asses are reported in the agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR.  In the case of NMVOC emissions, according to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. 
+3.B.2/1990: Not applicable. No ""other livestock"" ""other"" category recorded 
+3.B.2/1990: N2O emissions from horses are reported in the agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR.  In the case of NMVOC emissions, according to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. 
+3.B.2/1990: Direct and indirect N2O emissions from the manure deposited by deer are reported under the Agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR.  In the case of NMVOC emissions, according to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. 
+3.B.2/1990: Direct nitrous oxide emissions from anaerobic lagoons (dairy and swine) and daily spread (swine), are reported under Agricultural soils. The IPCC GL assume that negligible direct N2O emissions occur in anaerobic lagoons and daily spread, and only occur once the stored effluent is spread onto agricultural soil. The implied emission factor for pigs is affected by nitrogen excretion rates, which in turn is affected by pig weights. average pig weights have increased significantly since 1990 due to improvements in productivity. for more information see section 5.3.2 of the NIR (Nitrogen excretion rates for the minor livestock categories). Emissions from pigs are estimated using tier 1 methods. For more information see sections section 5.1.4 (minor livestock categories) and 5.3.2 (manure methane from minor livestock categories)of the NIR.  
+3.B.2/1990: N2O emissions from alpaca (included in the camels category) are reported in the agricultural soils category (CRF 3.D.1.3). For more information see sections 5.3.2 (Direct nitrous oxide emissions from manure management) and 5.5.2 (urine and dung deposited by grazing animals) of the NIR. There are no middle eastern camels in New Zealand. In the case of NMVOC emissions, according to the footnote 6 to the paragraph 37(b) of the UNFCCC reporting GLs, this category is not mandatory for reporting. 
+",,,,,,,,,,,,,,,,,,,,
