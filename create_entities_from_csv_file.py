@@ -94,13 +94,19 @@ Ignore all previous instructions related to the formatting of the output. Output
     return answer
 
 
-def execute_python_script_and_fix(script_file_name: str) -> Union[str, None]:
+def execute_python_script_and_fix(script_file_name: str, csv_file_name: str, sample_size: int) -> Union[str, None]:
     """
     Execute a Python script and retry if it fails.
     :param script_file_name: The name of the Python script.
+    :param csv_file_name: The name of the CSV file.
+    :param sample_size: The number of lines to include in the sample.
     :return: The name of the fixed Python script or None if the script is correct.
     """
     script = open(script_file_name, 'r').read()
+
+    lines = open(csv_file_name, 'r').read().splitlines()
+    sample_rows = '\n'.join(lines[:sample_size])
+
     try:
         exec(script)
         return None
@@ -113,10 +119,14 @@ The following script failed to execute:
 ###
 The error message is:
 ###
+Below is the header row and sample rows of the CSV file.
+###
+{sample_rows}
+###
 {e}
 ###
 Please fix the error and provide the fixed script below.
-"""
+###Ignore all previous instructions related to the formatting of the output. Output only the code, don't add an explanation afterwards."""
 
         response = openai.ChatCompletion.create(
             model="gpt-4",
@@ -147,7 +157,7 @@ for entity in relevant_entities:
         file.write(script)
 
     for i in range(script_generation_retries):
-        fixed_script = execute_python_script_and_fix(script_file_name)
+        fixed_script = execute_python_script_and_fix(script_file_name, file_name, sample_size=16)
         if fixed_script is None:
             print(f'Generated a correct script for {entity} and executed it successfully')
             break

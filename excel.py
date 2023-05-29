@@ -5,7 +5,7 @@ import os
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 # Load the Excel file
-xls = pd.ExcelFile('CYP_2023_1990_10052023_120243.xlsx')
+xls = pd.ExcelFile('table1.xlsx')
 
 # For each sheet in the Excel file
 for sheet_name in xls.sheet_names:
